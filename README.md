@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamosLM10
-- 👀 I’m interested in Web Development and would like to pursue a career in this area 
+- 👀 I’m interested in Web Development and I am pursuing a career in this area 
 
 
 <!---
