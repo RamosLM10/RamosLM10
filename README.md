@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RamosLM10
-- 👀 Recently finished a Web Development course and looking to start a career as a Web Developer! 
 
 
 <!---
